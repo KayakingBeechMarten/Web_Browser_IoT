@@ -1,0 +1,10 @@
+D:\Coding!\C#\Web_Browser\bin\Debug\Web_Browser.exe.config
+D:\Coding!\C#\Web_Browser\bin\Debug\Web_Browser.exe
+D:\Coding!\C#\Web_Browser\bin\Debug\Web_Browser.pdb
+D:\Coding!\C#\Web_Browser\obj\Debug\Web_Browser.csprojAssemblyReference.cache
+D:\Coding!\C#\Web_Browser\obj\Debug\Web_Browser.frmMain.resources
+D:\Coding!\C#\Web_Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+D:\Coding!\C#\Web_Browser\obj\Debug\Web_Browser.csproj.GenerateResource.cache
+D:\Coding!\C#\Web_Browser\obj\Debug\Web_Browser.csproj.CoreCompileInputs.cache
+D:\Coding!\C#\Web_Browser\obj\Debug\Web_Browser.exe
+D:\Coding!\C#\Web_Browser\obj\Debug\Web_Browser.pdb
